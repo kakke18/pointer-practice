@@ -7,6 +7,8 @@ Get the frequency of apperance of words in a text file.
 There are two types of data strutures using arrays and lists.
 input.txt is the famous speech of　Martin Luther King, Jr.
 
+### x_draw
+Because this program is strongly dependent on the execution environment, consider only data structures.
 
 ## Reference
 [C言語ポインタ完全制覇](https://amazon.co.jp/dp/4774111422/)
